@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>AB8B1511-0D29-4264-BEFF-2E03A46BADE5</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6C9E9C6FDE5CE2D7F14493B25D1D5E16469EA342</key>
+		<string>https://github.com/anton8900/apple-tree.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Tree with buttons/Tree with buttons.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6C9E9C6FDE5CE2D7F14493B25D1D5E16469EA342</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/anton8900/apple-tree.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6C9E9C6FDE5CE2D7F14493B25D1D5E16469EA342</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6C9E9C6FDE5CE2D7F14493B25D1D5E16469EA342</string>
+			<key>IDESourceControlWCCName</key>
+			<string>apple%20tree</string>
+		</dict>
+	</array>
+</dict>
+</plist>

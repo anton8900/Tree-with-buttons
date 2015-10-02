@@ -7,34 +7,34 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>AB8B1511-0D29-4264-BEFF-2E03A46BADE5</string>
 	<key>IDESourceControlProjectName</key>
-	<string>project</string>
+	<string>Tree with buttons</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>6C9E9C6FDE5CE2D7F14493B25D1D5E16469EA342</key>
-		<string>https://github.com/anton8900/apple-tree.git</string>
+		<key>7A5D06EED55E96343DF4FFA91D6898B5DC276408</key>
+		<string>https://github.com/anton8900/Tree-with-buttons.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Tree with buttons/Tree with buttons.xcodeproj/project.xcworkspace</string>
+	<string>Tree with buttons.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>6C9E9C6FDE5CE2D7F14493B25D1D5E16469EA342</key>
-		<string>../../..</string>
+		<key>7A5D06EED55E96343DF4FFA91D6898B5DC276408</key>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/anton8900/apple-tree.git</string>
+	<string>https://github.com/anton8900/Tree-with-buttons.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>6C9E9C6FDE5CE2D7F14493B25D1D5E16469EA342</string>
+	<string>7A5D06EED55E96343DF4FFA91D6898B5DC276408</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>6C9E9C6FDE5CE2D7F14493B25D1D5E16469EA342</string>
+			<string>7A5D06EED55E96343DF4FFA91D6898B5DC276408</string>
 			<key>IDESourceControlWCCName</key>
-			<string>apple%20tree</string>
+			<string>Tree%20with%20buttons</string>
 		</dict>
 	</array>
 </dict>

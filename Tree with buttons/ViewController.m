@@ -29,9 +29,6 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    [self addMyButton];
-}
-- (void)addMyButton{
     
     _shake = [UIButton buttonWithType:UIButtonTypeRoundedRect];
     _shake.frame = CGRectMake(120.0, 260.0, 100.0, 30.0);
@@ -49,13 +46,11 @@
     [_grow addTarget:self action:@selector(growAction) forControlEvents:UIControlEventTouchUpInside];
     [self.view addSubview:_grow];
     
-   _tree=[Tree new];
+    _tree=[Tree new];
     
     _label=[[UILabel alloc] initWithFrame:CGRectMake(60, 180, 300, 30)];
     [_label setText:[NSString stringWithFormat: @"Current number of apples: %lu",[_tree getSize]]];
     [self.view addSubview:_label];
-    
-    
 }
 
 - (void)didReceiveMemoryWarning {
